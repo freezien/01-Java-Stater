@@ -1,3 +1,5 @@
+package hoidanit;
+
 import java.util.Scanner;
 
 public class Bai02 {
